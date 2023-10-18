@@ -1,5 +1,5 @@
 # This is cool
-Beginning of my Python 3 adventure. [^1]
+What even is a Python 3? Does it cheeto? [^1]
 [^1]: This is how we make footnotes in Markdown apparently.
 
 Beginner

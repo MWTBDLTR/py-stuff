@@ -1,4 +1,4 @@
-from time import sleep
+print("Welcome to Extreme Ultimate Racing Showdown Extraordinaire 9000")
 print('''
                    _..-------++._
                _.-'/ |      _||  \"--._
@@ -9,8 +9,8 @@ print('''
    `-._|\ `-' /|___\_________/___|\ `-' /|_.'
          `---'                     `---'
 ''')
-print("Welcome to Extreme Ultimate Racing Showdown Extraordinaire 9000")
-print("Your mission is simple, make it to the finish line.") 
+print("Your mission is simple, make it to the finish line.")
+from time import sleep
 sleep(2)
 
 name = input("What's your name? ")
